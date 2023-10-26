@@ -1,4 +1,4 @@
-<h1 align="center">☀️<br>The Office Guest Stars</h1> 
+<h1 align="center">📽<br>The Office Guest Stars</h1> 
 
 - In my recent project, titled “Exploratory Data Analysis with Python”, I leveraged the power of Python to perform data analysis on a real-world dataset. I utilized various Python libraries such as pandas for data manipulation and matplotlib for data visualization.
 
@@ -17,7 +17,7 @@
 - This project not only showcased my technical skills in Python and data analysis but also demonstrated my ability to derive meaningful insights from data. It’s a testament to my problem-solving abilities and my proficiency in using Python for Data Science.
 <br></br>
 
-<img src="github_assets/image.png" />
+<img src="github_assets/theoffice.png" />
 
 --- 
 
